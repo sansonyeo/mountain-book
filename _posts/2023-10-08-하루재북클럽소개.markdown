@@ -2,11 +2,14 @@
 title: ":books: 하루재북클럽 소개"
 layout: post
 date: 2023-10-08 11:48
+tag: #하루재북클럽
+image: 
 headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "하루재북클럽 소개"
+description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
 category: project
+author: johndoe
 externalLink: false
 ---
 
