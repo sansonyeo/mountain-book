@@ -1,0 +1,13 @@
+---
+title: ":books: 하루재북클럽 소개"
+layout: post
+date: 2023-10-08 11:48
+headerImage: false
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "하루재북클럽 소개"
+category: project
+externalLink: false
+---
+
+![하루재북클럽](https://sansonyeo.github.io/mountain-book/assets/images/하루재북클럽소개.jpg)
