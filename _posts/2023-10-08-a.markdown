@@ -3,7 +3,7 @@ title: ":books: 하루재북클럽 소개"
 layout: post
 date: 2023-10-08 11:48
 tag: #하루재북클럽
-image: 
+image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
