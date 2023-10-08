@@ -13,6 +13,4 @@ author: johndoe
 externalLink: false
 ---
 
-하루재북클럽을 소개 합니다.
-
 ![aaa](https://sansonyeo.github.io/mountain-book/assets/images/하루재북클럽소개.jpg)
