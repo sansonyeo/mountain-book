@@ -9,5 +9,3 @@ category: project
 
 ![aaa](https://sansonyeo.github.io/mountain-book/assets/images/하루재북클럽소개.jpg)
 
-
-하루재북클럽
