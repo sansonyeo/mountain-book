@@ -1,5 +1,5 @@
 ---
-title: ":book: book guide"
+title: ":book: Let me introduce you to Haru Jae Book Club"
 layout: post
 date: 2023-10-08 12:35
 headerImage: false
@@ -7,4 +7,6 @@ projects: true
 category: project
 ---
 
-![aaa](https://sansonyeo.github.io/mountain-book/assets/images/하루재북클럽소개.jpg)
+![하루재북클럽을 소개 합니다](https://sansonyeo.github.io/mountain-book/assets/images/하루재북클럽소개.jpg)
+
+
