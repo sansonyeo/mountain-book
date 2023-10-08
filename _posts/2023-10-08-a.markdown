@@ -4,8 +4,8 @@ layout: post
 date: 2023-10-08 00:01
 headerImage: false
 projects: true
-hidden: true # don't count this post in blog pagination
-description: "aaa"
+hidden: false # 밑에 페이지 보이게
+description: ""
 category: project
 author: johndoe
 externalLink: false
