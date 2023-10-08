@@ -20,7 +20,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://sansonyeo.github.io/mountain-book
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -39,7 +39,7 @@ twitter: mytwitter
 instagram: myinstagram
 linkedin: mylinkedin
 github: mygithub
-email: myemail@gmail.com
+email: whitedovey@gmail.com
 
 authors:
   johndoe:
