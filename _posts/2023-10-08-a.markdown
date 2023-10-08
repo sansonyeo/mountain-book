@@ -4,11 +4,11 @@ layout: post
 date: 2023-10-08 00:01
 headerImage: false
 projects: true
-hidden: false # 밑에 페이지 보이게
+hidden: true
 description: ""
 category: project
 author: johndoe
 externalLink: false
 ---
 
-aaaaaaaaaaaaaaaaaaa
+![aaa](https://sansonyeo.github.io/mountain-book/assets/images/하루재북클럽소개.jpg)
