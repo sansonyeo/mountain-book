@@ -11,7 +11,7 @@ author: sansonyeo
 externalLink: false
 ---
 
-본 사이트에서 소개되는 산악도서는 #하루재북클럽에서 발간된 도서입니다. <br>
-구입코자 하시는 분은 #하루재북클럽을 가입해 주세요.
+본 사이트에서 소개되는 산악도서는 #하루재북클럽에서 발간된 도서를 주로 소개하고 있습니다.<br>
+하루재북클럽에서 발간된 도서에 관심이 있으신 분들은 회원 가입 안내를 참조해 주세요.
 
 ![aaa](https://sansonyeo.github.io/mountain-book/assets/images/하루재북클럽소개.jpg)
