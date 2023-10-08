@@ -10,7 +10,5 @@ category: project
 author: sansonyeo
 externalLink: false
 ---
-
 ![무상의정복자](https://image.aladin.co.kr/product/7960/6/cover500/8996745537_1.jpg)
-
-<br>[알라딘 구매 사이트 - 무상의정복자](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=796006737)
+<br>[알라딘 구매 사이트 - 무상의정복자](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=79600637)
