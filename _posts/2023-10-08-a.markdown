@@ -2,7 +2,7 @@
 title: ":books: 하루재북클럽을 소개 합니다."
 layout: post
 date: 2023-10-08 12:06
-tag: 하루재북클럽
+tag: 
 headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
