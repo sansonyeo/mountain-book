@@ -1,5 +1,5 @@
 ---
-title: ":book: aaa"
+title: ":book: 하루재북클럽을 소개 합니다"
 layout: post
 date: 2023-10-08 12:35
 headerImage: false
