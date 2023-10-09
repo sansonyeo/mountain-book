@@ -10,7 +10,7 @@ category: book
 author: sansonyeo
 externalLink: false
 ---
-![일본 여성 등산사](/assets/images/일본여성등산사_표지.jpg)
+![일본 여성 등산사](/mountain-book/assets/images/일본여성등산사_표지.jpg)
 <br><br>
 하루재북클럽에서 발간 했는데 온라인 서점에 왜 등록이 되어있지 않은지 모르겠네요. ㅋㅋㅋ
 <br>
