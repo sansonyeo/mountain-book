@@ -11,9 +11,5 @@ author: sansonyeo
 externalLink: false
 ---
 ![무상의정복자](https://image.aladin.co.kr/product/7960/6/cover500/8996745537_1.jpg)
-<br>[알라딘 구매 사이트 - 무상의정복자](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=79600637)
-<br>[한국여성산악회 다음카페 - 토론정리글](https://cafe.daum.net/8848kwca/5NO3/168)
-
-```
-date: "`r format(Sys.time(), '%d %B, %Y')`"
-```
+<br>[알라딘 구매 사이트 - 무상의정복자](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=79600637){:target="_blank"}
+<br>[한국여성산악회 다음카페 - 토론정리글](https://cafe.daum.net/8848kwca/5NO3/168){:target="_blank"}
