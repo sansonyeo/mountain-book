@@ -3,10 +3,10 @@ title: ":books: 하루재북클럽을 소개 합니다."
 layout: post
 date: 2023-10-08 00:01
 headerImage: false
-projects: true
+books: true
 hidden: true
 description: ""
-category: project
+category: book
 author: sansonyeo
 externalLink: false
 ---

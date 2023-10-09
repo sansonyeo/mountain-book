@@ -3,10 +3,10 @@ title: ":blue_book: 무상의 정복자"
 layout: post
 date: 2016-03-15 00:01
 headerImage: false
-projects: true
+books: true
 hidden: true
 description: ""
-category: project
+category: book
 author: sansonyeo
 externalLink: false
 ---
