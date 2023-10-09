@@ -1,5 +1,5 @@
 ---
-title: ":blue_book: Fallen Giants 히말라야 도전의 역사"
+title: ":book: Fallen Giants 히말라야 도전의 역사"
 layout: post
 date: 2015-11-02 00:01
 headerImage: false
