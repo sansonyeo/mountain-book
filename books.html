@@ -7,7 +7,7 @@ title: Books
         {% if post.books %}
             <div class="item {% if post.star %}star{% endif %}">
                 <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
-                    <aside><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%Y-%m-%d (%A)" }}</time></aside>
+                    <aside><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%Y-%m-%d (%a)" }}</time></aside>
                     <h3 class="title">{{ post.title }}</h3>
                 </a>
             </div>
