@@ -1,0 +1,15 @@
+---
+title: ":book: 일본 여성 등반사"
+layout: post
+date: 2018-03-23 00:01
+headerImage: false
+books: true
+hidden: true
+description: ""
+category: book
+author: sansonyeo
+externalLink: false
+---
+![일본 여성 등산사](https://github.com/sansonyeo/mountain-book/blob/mtngirl/assets/images/일본여성등산사_표지.jpg)
+<br>
+하루재북클럽에서 발간 했는데 온라인 서점에 왜 등록이 되어있지 않은지 모르겠네요. ㅋㅋㅋ
