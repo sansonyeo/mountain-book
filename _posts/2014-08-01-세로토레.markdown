@@ -1,0 +1,15 @@
+---
+title: ":green_apple: 세로 토레"
+layout: post
+date: 2014-08-01 00:01
+headerImage: false
+books: true
+hidden: true
+description: ""
+category: book
+author: sansonyeo
+externalLink: false
+---
+![세로 토레](https://image.aladin.co.kr/product/4466/40/cover500/8996745502_1.jpg)
+<br>[한국여성산악회 다음카페 - 토론정리글](https://cafe.daum.net/8848kwca/5NO3/141){:target="_blank"}
+<br>[알라딘 온라인 서점 - 세로 토레](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=44664096&start=slayer){:target="_blank"}
