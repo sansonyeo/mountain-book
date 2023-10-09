@@ -1,5 +1,5 @@
 ---
-title: ":green_apple: 세로 토레"
+title: ":book: 세로 토레"
 layout: post
 date: 2014-08-01 00:01
 headerImage: false
