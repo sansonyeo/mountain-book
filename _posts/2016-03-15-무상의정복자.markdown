@@ -1,5 +1,5 @@
 ---
-title: ":blue_book: 무상의 정복자"
+title: ":book: 무상의 정복자"
 layout: post
 date: 2016-03-15 00:01
 headerImage: false
