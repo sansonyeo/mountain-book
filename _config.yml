@@ -74,7 +74,7 @@ pagination:
 # if you don't need projects, comment the *projects* configs below
 projects: true
 
-# [2023-10-09 JYYun] Add
+# [2023-10-09 JYYun] Add 
 books: true
 
 # if you don't need "about" or "blog", comment them out below
