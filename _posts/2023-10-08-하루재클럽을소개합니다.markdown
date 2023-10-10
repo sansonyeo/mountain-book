@@ -17,4 +17,10 @@ externalLink: false
 
 ![하루재북클럽](https://sansonyeo.github.io/mountain-book/assets/images/하루재북클럽소개.jpg){:target="_blank"}
 
-![깃허브댓글](https://github.com/sansonyeo/mountain-book/issues/1)
+<script src="https://utteranc.es/client.js"
+        repo="mtngirl/mountain-book"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
