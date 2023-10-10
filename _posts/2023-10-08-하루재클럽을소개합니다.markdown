@@ -16,3 +16,5 @@ externalLink: false
 #[하루재북클럽] 전화 문의는 [010-7673-8608] 입니다.
 
 ![하루재북클럽](https://sansonyeo.github.io/mountain-book/assets/images/하루재북클럽소개.jpg){:target="_blank"}
+
+https://github.com/sansonyeo/mountain-book/blob/7ea67b5b99233985a2b5be74acb33ca6fc2a7ce3/_posts/2023-10-08-%ED%95%98%EB%A3%A8%EC%9E%AC%ED%81%B4%EB%9F%BD%EC%9D%84%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4.markdown
