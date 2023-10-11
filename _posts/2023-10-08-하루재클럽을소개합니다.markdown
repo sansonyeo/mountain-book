@@ -18,7 +18,7 @@ externalLink: false
 ![하루재북클럽](https://sansonyeo.github.io/mountain-book/assets/images/하루재북클럽소개.jpg){:target="_blank"}
 
 <script src="https://utteranc.es/client.js"
-        repo="sansonyeo/mountain-book/하루재클럽을소개합니다/"
+        repo="sansonyeo/mountain-book/%ED%95%98%EB%A3%A8%EC%9E%AC%ED%81%B4%EB%9F%BD%EC%9D%84%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4"
         issue-term="pathname"
         theme="github-dark"
         crossorigin="anonymous"
