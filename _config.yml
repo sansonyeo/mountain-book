@@ -27,14 +27,12 @@ url: https://sansonyeo.github.io/mountain-book
 # your url: https://USERNAME.github.io
 
 # [2023.10.11 JYYun] 포스트 댓글 ------- start
-repository: "sansonyeo/mountain-book" 
-
-comments:
-    provider: "utterances"
-
-utterances:
-    theme: "github-dark"
-    issue_term: "pathname"
+#repository: "sansonyeo/mountain-book" 
+#comments:
+#    provider: "utterances"
+#utterances:
+#    theme: "github-dark"
+#    issue_term: "pathname"
 # [2023.10.11 JYYun] 포스트 댓글 ------- end
 
 permalink: /:title/
