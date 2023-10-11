@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }{ site.repository }{ repository }}/{{ site.picture }}{% endif %})
+![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }{ site.repository }}/{{ site.picture }}{% endif %})
 
 <p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
