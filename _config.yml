@@ -22,8 +22,7 @@ dark-theme: auto
 resume: false
 resume-external: false
 # resume-url: https://google.com/?q=my+resume
-baseurl: "/mountain-book"
-url: https://sansonyeo.github.io/
+url: https://sansonyeo.github.io/mountain-book
 # your url: https://USERNAME.github.io
 
 # [2023.10.11 JYYun] 포스트 댓글 ------- start
