@@ -21,6 +21,7 @@ externalLink: false
         repo="sansonyeo/mountain-book"
         issue-term="pathname"
         theme="github-dark"
+        id="utterances"
         crossorigin="anonymous"
         async>
 </script>
