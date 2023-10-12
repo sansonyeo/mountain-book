@@ -1,5 +1,5 @@
 ---
-title: ":guide_dog: 댓글 사용법"
+title: "🦮 댓글 사용법"
 layout: post
 date: 2023-10-11 05:08
 headerImage: false
