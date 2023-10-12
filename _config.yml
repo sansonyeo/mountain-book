@@ -1,6 +1,3 @@
-# 윤진영 추가
-locale: "ko-KR"
-
 # main text of home
 title: 산소녀's 산악도서
 bio: 산악도서를 소개 합니다.
@@ -23,7 +20,7 @@ resume: false
 resume-external: false
 # resume-url: https://google.com/?q=my+resume
 
-url: https://sansonyeo.github.io/mountain-book
+url: https://mtngirl.kr
 # your url: https://USERNAME.github.io
 
 # [2023.10.11 JYYun] 포스트 댓글 ------- start
