@@ -15,3 +15,11 @@ externalLink: false
 <br>[1.GitHub 가입 사이트 <-- 클릭 하세요.](https://github.com/signup?source=login)
 <br>2.[Comment] 버튼이 나오지 않으면 [Sign in with GitHub] 버튼을 클릭하여 로그인 하세요.
 <br>3.[Sign in with GitHub] 버튼을 누르고 오류가 나면 주소창에 /mountain-book/mountain-book/ <== 요 부분에서 /mountain-book 으로 수정 하세요.
+
+<script src="https://utteranc.es/client.js"
+        repo="sansonyeo/comments"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
