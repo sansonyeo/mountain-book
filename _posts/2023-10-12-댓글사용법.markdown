@@ -1,0 +1,17 @@
+---
+title: ":guide_dog: 댓글 사용법"
+layout: post
+date: 2023-10-11 05:08
+headerImage: false
+books: true
+hidden: true
+description: ""
+category: book
+author: sansonyeo
+externalLink: false
+---
+
+본 사이트에서 댓글을 사용 하실려면 깃허브에 가입을 해야 합니다.
+<br>[1.GitHub 가입 사이트 <-- 클릭 하세요.](https://github.com/signup?source=login)
+<br>2.[Comment] 버튼이 나오지 않으면 [Sign in with GitHub] 버튼을 클릭하여 로그인 하세요.
+<br>3.[Sign in with GitHub] 버튼을 누르고 오류가 나면 주소창에 /mountain-book/mountain-book/ <== 요 부분에서 /mountain-book 으로 수정 하세요.
