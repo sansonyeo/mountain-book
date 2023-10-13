@@ -25,6 +25,12 @@
         </a>
     {% endif %}
 
+    {% if site.myetcblog %}
+        <a class="link" data-title="{{ site.myetcblog }}" href="https://{{ site.myetcblog }}" target="_blank"  rel="noopener">
+            <i class="fa-brands fa-github"></i>
+        </a>
+    {% endif %}    
+
     {% if site.github %}
         <a class="link" data-title="github.com/{{ site.github }}" href="https://github.com/{{ site.github }}" target="_blank"  rel="noopener">
             <i class="fa-brands fa-github"></i>
