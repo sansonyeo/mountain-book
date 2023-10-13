@@ -13,10 +13,3 @@ externalLink: false
 ![무상의정복자](https://image.aladin.co.kr/product/7960/6/cover500/8996745537_1.jpg)
 <br>[한국여성산악회 다음카페 - 토론정리글](https://cafe.daum.net/8848kwca/5NO3/168){:target="_blank"}
 <br>[알라딘 온라인 서점 - 무상의 정복자](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=79600637){:target="_blank"}
-<script src="https://utteranc.es/client.js"
-        repo="sansonyeo/comments"
-        issue-term="pathname"
-        theme="github-dark"
-        crossorigin="anonymous"
-        async>
-</script>

@@ -16,10 +16,3 @@ externalLink: false
 <br>
 [제6장 등산객을 위해 애쓴 산의 여성들] 이라는 챕터가 있다. <br>
 보이지 않게 산을 바라보는 이들의 모습에서 산악애호가인 나의 모습이 살짝 보인다고 할까놩? ㅋㅋㅋㅋ
-<script src="https://utteranc.es/client.js"
-        repo="sansonyeo/comments"
-        issue-term="pathname"
-        theme="github-dark"
-        crossorigin="anonymous"
-        async>
-</script>
