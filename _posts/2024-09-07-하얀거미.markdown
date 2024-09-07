@@ -2,7 +2,7 @@
 title: ":book: 하얀 거미"
 layout: post
 date: 2024-09-07 00:01
-headerImage: false
+headerImage: true
 books: true
 hidden: true
 description: ""
